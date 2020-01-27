@@ -1,0 +1,27 @@
+{
+  "name": "memer-bot",
+  "version": "1.0.0",
+  "description": "public bot that generates memes using https://memegen.link/",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinya-chan/memer-bot.git"
+  },
+  "keywords": [
+    "meme",
+    "telegram",
+    "telegram-api-bot"
+  ],
+  "author": "shinya_dono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinya-chan/memer-bot/issues"
+  },
+  "homepage": "https://github.com/shinya-chan/memer-bot#readme",
+  "dependencies": {
+    "telegraf": "^3.36.0"
+  }
+}
